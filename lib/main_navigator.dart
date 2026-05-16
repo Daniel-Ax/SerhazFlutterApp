@@ -1,4 +1,3 @@
-import 'beer_card.dart';
 import 'beer_page.dart';
 import 'custom_bottom_nav.dart';
 import 'package:flutter/material.dart';

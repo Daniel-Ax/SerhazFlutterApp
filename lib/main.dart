@@ -5,7 +5,6 @@ import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'custom_bottom_nav.dart';
 import 'beer_card.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'beer_page.dart';

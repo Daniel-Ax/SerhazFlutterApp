@@ -2,7 +2,6 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'beer_card.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'custom_bottom_nav.dart';
 class BeersPage extends StatelessWidget {
   const BeersPage({super.key});
 
